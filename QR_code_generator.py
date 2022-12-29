@@ -1,4 +1,5 @@
-#QR code generate for any link with 
+#QR code generate for any link with some edits 
+
 import qrcode
 #from PIL import Image
 #img = qr.make("https://www.linkedin.com/in/rishita-mitra-242716226")
